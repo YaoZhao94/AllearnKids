@@ -1,0 +1,46 @@
+Anchovy
+Barramundi
+Bass
+Bluefish
+Bream
+Carp
+Catfish
+Caviar
+Char
+Chub
+Cod
+Eel
+Flake
+Flounder
+Grouper
+Gurnard
+Haddock
+Hake
+Halibut
+Herring
+Imitation crab
+Mackerel
+Mahi-mahi
+Marlin
+Monkfish
+Orange Roughy
+Perch
+Pickerel
+Pike
+Plaice
+Pollock
+Pompano
+Rockfish
+Salmon
+Sardines
+Sashimi
+Shark
+Smelt
+Snapper
+Surimi
+Tilapia
+Trout
+Tuna
+White Fish
+Whiting
+Whitebait
