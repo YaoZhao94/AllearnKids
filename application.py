@@ -6,16 +6,13 @@ import table as t  # table class that get data from database
 import schedule
 import time
 import xml_parse
-from threading import Thread
-from apscheduler.schedulers.background import BackgroundScheduler
 from flask_apscheduler import APScheduler
 
-import asyncio
 
 
+# Configuration for APScheduler
+class Config(object):
 
-class Config(object):  # 创建配置，用类
-    # 任务列表
     JOBS = [
 
         {
@@ -23,7 +20,7 @@ class Config(object):  # 创建配置，用类
             'func': '__main__:xml_parse.check_new',
             'args': (),
             'trigger': 'interval',
-            'seconds': 150,
+            'seconds': 1800,
         }
     ]
 
