@@ -57,7 +57,7 @@ pyquery==1.4.0
 python-dateutil==2.8.0
 pytz==2019.2
 pyxnat==1.2.0.0
-PyYAML==5.1.2
+PyYAML==5.4
 rdflib==4.2.2
 records==0.5.3
 requests==2.22.0
