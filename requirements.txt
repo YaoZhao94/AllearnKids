@@ -38,7 +38,7 @@ networkx==2.3
 neurdflib==5.0.0.post1
 nibabel==2.5.0
 nipype==1.2.2
-numpy==1.17.1
+numpy==1.22.0
 odfpy==1.4.0
 openpyxl==2.4.11
 packaging==19.2
